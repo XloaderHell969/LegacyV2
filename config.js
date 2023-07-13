@@ -26,7 +26,7 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
     })
       
 /*Change Name Session*/
-global.namesesi = 'rullzy.data'//.json
+global.namesesi = 'creds'//.json
 //Nama Session rullzy.data.json !!!
 //Yang V2 Masih Tahap Perbaikan Next V3 Yaa
 //Ganti Nama Sessionmu Seperti Teks Diatas [!]
